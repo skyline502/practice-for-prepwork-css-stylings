@@ -1,37 +1,41 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 80px;
+    font-family: 'fangsong';
+    padding: 10px 0;
+    margin: 0;
+    font-weight: bold;
+    text-decoration: underline;
+    color: whitesmoke;
+    background-color: black;
+
+
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 40px;
+    font-family: fangsong;
+    font-style:italic;
+    padding: 10px 1em;
+    margin: 0;
+    font-weight: bold;
+    color: white;
+    background-color: gray;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: fangsong;
+    font-style:italic;
+    font-size: 25px;
+    padding: 10px 1em;
+    margin: 0;
+    color: rgb(41, 40, 40);
+    background-color: white;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color:white;
+    height: 100px;
+    width: 100px;
 }
